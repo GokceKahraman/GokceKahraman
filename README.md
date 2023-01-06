@@ -15,3 +15,10 @@ I am eager to learn mobile development🙌
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=GokceKahraman&icon=5&color=0)](https://visitcount.itsvg.in)
+
+![Visitor Count](https://profile-counter.glitch.me/{GokceKahraman}/count.svg)
