@@ -2,6 +2,7 @@
 
 I'm Gökçe. 
 I am eager to learn mobile development🙌
+I could write both Swift and Kotlin languages.
 
 📫 How to reach me:
 
